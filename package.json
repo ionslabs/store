@@ -1,0 +1,30 @@
+{
+  "name": "storage",
+  "version": "0.0.1",
+  "description": "localStorage and sessionStorage operation simplification",
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "rollup-plugin-json": "^4.0.0"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ionslabs/store.git"
+  },
+  "keywords": [
+    "localStorage",
+    "sessionStorage",
+    "browser",
+    "mobile"
+  ],
+  "author": "Qhan W",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ionslabs/store/issues"
+  },
+  "homepage": "https://github.com/ionslabs/store#readme"
+}
